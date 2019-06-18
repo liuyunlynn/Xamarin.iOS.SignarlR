@@ -1,0 +1,13 @@
+E:\Study\SignalR.Server\SignalRTest\bin\Debug\SignalRTest.exe.config
+E:\Study\SignalR.Server\SignalRTest\bin\Debug\SignalRTest.exe
+E:\Study\SignalR.Server\SignalRTest\bin\Debug\SignalRTest.pdb
+E:\Study\SignalR.Server\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\Study\SignalR.Server\SignalRTest\bin\Debug\Newtonsoft.Json.dll
+E:\Study\SignalR.Server\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+E:\Study\SignalR.Server\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\Study\SignalR.Server\SignalRTest\bin\Debug\Newtonsoft.Json.xml
+E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.csprojAssemblyReference.cache
+E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.csproj.CoreCompileInputs.cache
+E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.csproj.CopyComplete
+E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.exe
+E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.pdb
