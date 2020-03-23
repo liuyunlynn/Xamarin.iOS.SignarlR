@@ -14,13 +14,13 @@ namespace SignalR.Server
         public void Configuration(IAppBuilder app)
         {
             app.MapSignalR();
-            var timer = new Timer
-            {
-                Enabled = true,
-                Interval = 1000
-            };
-            timer.Start();
-            timer.Elapsed += SendMessage;
+            //var timer = new Timer
+            //{
+            //    Enabled = true,
+            //    Interval = 1000
+            //};
+            //timer.Start();
+            //timer.Elapsed += SendMessage;
         }
 
         private void SendMessage(object sender, ElapsedEventArgs e)

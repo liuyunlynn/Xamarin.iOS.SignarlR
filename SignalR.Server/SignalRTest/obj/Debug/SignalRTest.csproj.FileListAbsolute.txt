@@ -11,3 +11,16 @@ E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.csproj.CoreCompileInpu
 E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.csproj.CopyComplete
 E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.exe
 E:\Study\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.pdb
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\bin\Debug\SignalRTest.exe.config
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\bin\Debug\SignalRTest.exe
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\bin\Debug\SignalRTest.pdb
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\bin\Debug\Newtonsoft.Json.dll
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\bin\Debug\Newtonsoft.Json.xml
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.csprojAssemblyReference.cache
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.csproj.CoreCompileInputs.cache
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.csproj.CopyComplete
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.exe
+E:\AndroidApp\Xamarin.iOS.SignarlR\SignalR.Server\SignalRTest\obj\Debug\SignalRTest.pdb
